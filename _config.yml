@@ -35,6 +35,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - .htaccess
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -50,6 +51,16 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# mimic GitHub Pages with --safe
+whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
