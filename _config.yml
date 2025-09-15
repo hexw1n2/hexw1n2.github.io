@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: hexw1n2
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  hexw1n2 vfx video editor portfolio website . adobe after effects . premiere pro . blender . photoshop
+  hexw1n2 vfx video editor portfolio website | adobe after effects | premiere pro | blender | photoshop
+url: "https://hexw1n2.github.io" 
 tiktok_username: hexw1n2
 github_username: hexw1n2
 minimal_mistakes_skin: default
@@ -68,9 +70,9 @@ whitelist:
   - jekyll-remote-theme
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "hexw1n2"
+  avatar : "/assets/images/hexw1n2-pfp.png"
+  bio    : "adobe after effects | premiere pro | blender | photoshop"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -83,7 +85,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/hexw1n2"
 
 footer:
   links:
