@@ -10,8 +10,6 @@ header:
   actions:
     - label: "Contact"
       url: "https://www.instagram.com/hexw1n2/"
-intro: 
-  - excerpt: "After Effects | Premiere Pro | Photoshop | Blender"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -52,8 +50,6 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
