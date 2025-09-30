@@ -11,7 +11,7 @@ header:
     - label: "Contact"
       url: "https://www.instagram.com/hexw1n2/"
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/Header_Gif.webp # /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "If you see this text, there is an issue with your browser"
     title: "Perform well on the algorithm without being Formulaic"
     excerpt: 'Videos optimized for the algorithm while still being unique and artistic.'
