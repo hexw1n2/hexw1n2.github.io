@@ -74,30 +74,27 @@ author:
   avatar : "/assets/images/hexw1n2-pfp.png"
   bio    : "after effects, premiere pro, blender, photoshop"
   links:
-    - label: "Website"
+    - label: "Payhip" 
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://payhip.com/hexw1n2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hexw1n2"
+    - label: "Tiktok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://tiktok.com/hexw1n2"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Payhip" 
+      icon: "fas fa-fw fa-link"
+      url: "https://payhip.com/hexw1n2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/hexw1n2"
+    - label: "Tiktok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://tiktok.com/hexw1n2"
 
 defaults:
   # _posts
